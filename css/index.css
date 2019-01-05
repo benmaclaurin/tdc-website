@@ -1,0 +1,52 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+}
+.logo {
+  margin-left: 75px;
+  margin-top: 75px;
+  width: 140px;
+}
+.heading {
+  font-family: 'Lora';
+  font-size: 40px;
+  margin-left: 75px;
+  margin-top: 125px;
+}
+.body-text {
+  font-family: 'Helvetica Neue';
+  color: #898989;
+  font-size: 15px;
+  margin-left: 75px;
+}
+.button {
+  background-color: black;
+  height: 50px;
+  width: 150px;
+  margin-left: 75px;
+  margin-top: 25px;
+  color: white;
+  font-family: 'Helvetica Neue';
+  font-weight: 600;
+  font-size: 13px;
+  text-align: center;
+}
+.button-text {
+  padding-top: 15px;
+}
+.section-2 {
+  padding-top: 30px;
+}
+.heading-small {
+	font-weight: 500;
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Helvetica Neue';
+	text-align: center;
+}
+.section-3 {
+	padding-top: 45px;
+}
